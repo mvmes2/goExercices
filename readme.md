@@ -1,0 +1,1 @@
+# Para executar o projeto, basta clonar o repositoriio em sua maquina, abrir o terminal, entrar na pasta raiz do projeto e executar go run ./main.go

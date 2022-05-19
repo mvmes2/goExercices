@@ -19,5 +19,5 @@ var (
 )
 
 func Metereologia() {
-	fmt.Println("A temperatura em São Paulo é de:", temperatura, "Umidade:", umidade, "Pressão Atmosférica:", pa)
+	fmt.Println("A temperatura em São Paulo é de:", temperatura, "Graus", "Umidade:", umidade, "Pressão Atmosférica:", pa)
 }

@@ -14,12 +14,10 @@ r: number, string, string.
 
 var (
 	temperatura int8   = 14
-	umidade     string = "62%"
-	pa          string = "1017 mb"
+	umidade     string = "81%"
+	pa          string = "1016hPa"
 )
 
 func Metereologia() {
-	fmt.Println("Temperatura:", temperatura)
-	fmt.Println("Umidade:", umidade)
-	fmt.Println("Pressão Atmosférica:", pa)
+	fmt.Println("A temperatura em São Paulo é de:", temperatura, "Umidade:", umidade, "Pressão Atmosférica:", pa)
 }

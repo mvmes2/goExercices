@@ -1,3 +1,3 @@
-module github.com/mvmes2/goExercices
+module teste
 
 go 1.18

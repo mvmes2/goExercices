@@ -11,5 +11,5 @@ Exercício 1 - Imprimindo o nome na tela
 func PrintName() {
 	nome := "Marcos"
 
-	return fmt.Println(nome)
+	fmt.Println(nome)
 }

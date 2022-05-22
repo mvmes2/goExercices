@@ -19,7 +19,7 @@ var nome string = "Fellipe"
 */
 
 func CodeReview() {
-	fmt.Println("var var sobrenome string = \"Silva\" / correto")
+	fmt.Println("var sobrenome string = \"Silva\" / correto")
 	fmt.Println("var idade int = \"25\" / incorreto => var idade int = 25")
 	fmt.Println("boolean := \"false\"; / incorreto => boolean := false")
 	fmt.Println("var salario string = 4585.90 / incorreto => var salario float = 4585.90")
